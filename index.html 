@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi Galería</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f4f4f9;
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      color: #333;
+    }
+    img, video {
+      margin: 10px;
+      max-width: 90%;
+      border-radius: 8px;
+    }
+    div {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bienvenido a Mi Galería</h1>
+  <p>Aquí puedes ver mis fotos y vídeos:</p>
+  <div>
+    <img src="foto1.jpg" alt="Foto 1">
+    <img src="foto2.jpg" alt="Foto 2">
+    <video controls>
+      <source src="video1.mp4" type="video/mp4">
+      Tu navegador no soporta el video.
+    </video>
+  </div>
+</body>
+</html><!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi Galería</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f4f4f9;
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      color: #333;
+    }
+    img, video {
+      margin: 10px;
+      max-width: 90%;
+      border-radius: 8px;
+    }
+    div {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bienvenido a Mi Galería</h1>
+  <p>Aquí puedes ver mis fotos y vídeos:</p>
+  <div>
+    <img src="foto1.jpg" alt="Foto 1">
+    <img src="foto2.jpg" alt="Foto 2">
+    <video controls>
+      <source src="video1.mp4" type="video/mp4">
+      Tu navegador no soporta el video.
+    </video>
+  </div>
+</body>
+</html><!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi Galería</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f4f4f9;
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      color: #333;
+    }
+    img, video {
+      margin: 10px;
+      max-width: 90%;
+      border-radius: 8px;
+    }
+    div {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bienvenido a Mi Galería</h1>
+  <p>Aquí puedes ver mis fotos y vídeos:</p>
+  <div>
+    <img src="foto1.jpg" alt="Foto 1">
+    <img src="foto2.jpg" alt="Foto 2">
+    <video controls>
+      <source src="video1.mp4" type="video/mp4">
+      Tu navegador no soporta el video.
+    </video>
+  </div>
+</body>
+</html>
